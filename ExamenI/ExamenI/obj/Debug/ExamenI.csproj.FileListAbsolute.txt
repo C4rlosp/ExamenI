@@ -1,0 +1,8 @@
+C:\Users\fscar\source\repos\ExamenI\ExamenI\bin\Debug\ExamenI.exe.config
+C:\Users\fscar\source\repos\ExamenI\ExamenI\bin\Debug\ExamenI.exe
+C:\Users\fscar\source\repos\ExamenI\ExamenI\bin\Debug\ExamenI.pdb
+C:\Users\fscar\source\repos\ExamenI\ExamenI\obj\Debug\ExamenI.csproj.AssemblyReference.cache
+C:\Users\fscar\source\repos\ExamenI\ExamenI\obj\Debug\ExamenI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fscar\source\repos\ExamenI\ExamenI\obj\Debug\ExamenI.csproj.CoreCompileInputs.cache
+C:\Users\fscar\source\repos\ExamenI\ExamenI\obj\Debug\ExamenI.exe
+C:\Users\fscar\source\repos\ExamenI\ExamenI\obj\Debug\ExamenI.pdb
